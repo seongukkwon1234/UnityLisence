@@ -1,4 +1,4 @@
-using System.Collections;
+/*using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Build.Content;
 using UnityEngine;
@@ -17,4 +17,4 @@ public class HelloUnity : MonoBehaviour
     {
         Debug.Log("매 프레임 생성");
     }
-}
+}*/
